@@ -1,0 +1,3 @@
+Version 0.5
+
+@BenjaminPerezSaintleo: This will include code for the Calculator Portion of the Project. It is currently untested due to time constraints and various external reasons. (#1)
